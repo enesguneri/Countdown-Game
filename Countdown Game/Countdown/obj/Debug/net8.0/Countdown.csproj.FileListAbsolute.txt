@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\bin\Debug\net8.0\Countdown.exe
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\bin\Debug\net8.0\Countdown.deps.json
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\bin\Debug\net8.0\Countdown.runtimeconfig.json
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\bin\Debug\net8.0\Countdown.dll
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\bin\Debug\net8.0\Countdown.pdb
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.AssemblyInfo.cs
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.dll
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\refint\Countdown.dll
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.pdb
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\Countdown.genruntimeconfig.cache
+C:\Users\Acer\Desktop\CountdownFinal\Countdown Game\Countdown\obj\Debug\net8.0\ref\Countdown.dll
